@@ -5,8 +5,8 @@ A C# client for the Shipment Service of the DPD Web Services - create a parcel l
 - *Current specifications, endpoints, URLs can be found within the [DPD development portal](https://esolutions.dpd.com/entwickler/dpdwebservices.aspx)*. The website provides up-to-date documentation, code examples as well as a sandbox for development purposes. Please register as a developer to get access to all detailed information.
 - *Each development using the DPD Web Connect service must be validated and approved by DPD*. This validation is mandatory to get started with the DPD Web Connect service. The correct handling, the implemented services as well as products must be tested and validated prior any access to the production environment.
 
-| :warning: These are Kaupisch IT-Systeme GmbH's own code examples and not official DPD Germany code examples. |
-| - |
+> :warning: These are Kaupisch IT-Systeme GmbH's own code examples and not official DPD Germany code examples.           
+> _Dies sind eigene Code-Beispiele der Kaupisch IT-Systeme GmbH und keine offiziellen Code-Beispiele von DPD Deutschland._
 
 ## Sample
 
